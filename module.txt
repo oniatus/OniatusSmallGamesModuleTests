@@ -1,0 +1,12 @@
+{
+    "id" : "OniatusSmallGamesModuleTests",
+    "version" : "0.0.1",
+    "author" : "",
+    "displayName" : "OniatusSmallGamesModuleTests",
+    "description" : "",
+    "dependencies" : [
+            {"id": "OniatusSmallGames", "minVersion": "0.0.1"},
+            {"id": "ModuleTestingEnvironment", "minVersion": "0.1.0-SNAPSHOT"}
+            ],
+    "serverSideOnly" : false
+}
