@@ -2,7 +2,6 @@ package org.terasology.oniatussmallgames.world;
 
 import com.google.common.collect.Sets;
 import org.junit.Test;
-import org.terasology.math.geom.Vector3f;
 import org.terasology.math.geom.Vector3i;
 import org.terasology.moduletestingenvironment.ModuleTestingEnvironment;
 import org.terasology.world.WorldProvider;
